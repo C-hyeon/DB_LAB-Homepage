@@ -9,7 +9,7 @@ const Research = () => {
             <div className="container">
                 <div id="content">
                     <br/>
-                    <h1>Researching</h1>
+                    <h1>Research</h1>
                     <hr />
                 </div>
             </div>
