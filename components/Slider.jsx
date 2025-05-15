@@ -10,7 +10,7 @@ const Slider = ( props ) => {
                         <div className="desc">
                             <span>DAEJIN UNIVERSITY</span>
                             <h3>DataBase Laboratory</h3>
-                            <p>데이터베이스 연구실 홈페이지에 방문하신 걸 환영합니다!</p>
+                            <p>데이터베이스 연구실 홈페이지에 방문하신 걸 환영합니다!!</p>
                             <div className="btn">
                                 <a href="/">자세히 보기</a>
                                 <a href="/" className="black">사이트 보기</a>
