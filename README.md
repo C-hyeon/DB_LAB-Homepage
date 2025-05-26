@@ -1,8 +1,10 @@
 # 리액트를 이용한 웹 사이트 만들기
 처음으로 리액트 사이트를 만들어 봅니다.
 컴퍼넌트 및 props를 이용하여 사이트를 만들고 사이트를 구성합니다.
-가상 돔(Virtual DOM), 컴포넌트 기반, 데이터 처리, JS를 이용하여 작업하였습니다.
+가상 돔(Virtual DOM), 컴포넌트 기반, 데이터 처리, JSX를 이용하여 작업하였습니다.
 
+## 미리보기
+https://webpage-react9.netlify.app/
 
 ## 설치
 npx create-react-app react-webpage
